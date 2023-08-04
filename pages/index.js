@@ -10,11 +10,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">my blog</a>
+          Welcome to <a href="https://nextjs.org">my blog!</a>
         </h1>
 
         <p className={styles.description}>
-          The home for all my 
+          The home for all my
           <code className={styles.code}>ideas</code>
         </p>
 
